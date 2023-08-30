@@ -1,0 +1,10 @@
+{{#user}}
+Name: G. Venkata Vignesh
+Skills: Java, data structures, python, ros
+Email: vigneshg6411@gmail.com
+{{/user}}
+{{#user}}
+Name: G. Venkata Vignesh
+Skills: Java, data structures, python, ros
+Email: vigneshg6411@gmail.com
+{{/user}}
